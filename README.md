@@ -40,12 +40,12 @@ This project explores the relationship between various environmental, lifestyle,
 ## Key Findings
 
 ### Causes Associated with Lung Cancer Severity:
-- **Increased Severity**: Work hazards (most influential), air pollution, smoking, diet, passive smoking, and genetic risk were all associated with higher odds of greater severity.
-- **Lower Severity**: Dust allergies (most influential), alcohol use, and obesity were linked to lower severity.
+- **Increased Severity**: Work hazards (*most influential*), air pollution, smoking, diet, passive smoking, and genetic risk were all associated with higher odds of greater severity.
+- **Lower Severity**: Dust allergies (*most influential*), alcohol use, and obesity were linked to lower severity.
 
 ### Effects/Symptoms Associated with Severity:
-- **Increased Severity**: Chest pain (most influential), dry cough, coughing blood, fatigue, and fingernail clubbing were all associated with higher odds of greater severity.
-- **Lower Severity**: Shortness of breath (most influential), snoring, wheezing, and frequent colds were linked to lower severity.
+- **Increased Severity**: Chest pain (*most influential*), dry cough, coughing blood, fatigue, and fingernail clubbing were all associated with higher odds of greater severity.
+- **Lower Severity**: Shortness of breath (*most influential*), snoring, wheezing, and frequent colds were linked to lower severity.
 
 ---
 
